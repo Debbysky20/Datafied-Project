@@ -5,8 +5,12 @@ This repository contains all the essential components for the Advanced Data Anal
 
 Sections
 A. Data Analysis (75%)
-Research Questions: Five research questions were clearly formulated based on the provided dataset.
-Dataset Creation: The dataset was merged using SnowSQL and SQL queries.
+
+Research Questions:
+Five research questions were clearly formulated based on the provided dataset.
+
+Dataset Creation:
+The dataset was merged using Snowflake and SnowSQL queries.
 
 Data Preprocessing:
 Initial cleaning and preprocessing of the dataset were performed using Excel. The dataset was initially combined in a single sheet and was separated into individual tables based on the year.
