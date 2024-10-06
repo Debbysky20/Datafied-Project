@@ -3,9 +3,6 @@ Advanced Data Analytics - Portfolio Project
 Project Overview
 This repository contains all the essential components for the Advanced Data Analytics portfolio project, including the transformed dataset, Power BI file, research questions, and presentation materials. The project focused on analyzing large datasets using big data technologies, such as SnowSQL, for data transformation, with visualizations created using Power BI.
 
-Sections
-A. Data Analysis (75%)
-
 Research Questions:
 Five research questions were clearly formulated based on the provided dataset.
 
